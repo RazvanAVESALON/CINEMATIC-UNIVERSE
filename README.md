@@ -11,5 +11,9 @@
 
 ## Villains 
 
--[Darko](./villains/Darko.md)
--[Bardo](./villains/Bardo%20The%20Redemmer.md)
+- [Darko](./villains/Darko.md)
+- [Bardo](./villains/Bardo%20The%20Redemmer.md)
+
+## Authors 
+
+- Avesalon Razvan
