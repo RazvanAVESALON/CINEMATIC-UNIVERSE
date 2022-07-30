@@ -3,6 +3,7 @@
 ## Movies
 
 - [Darkness Falls](/movies/Movie1.md)
+- [A New Dawn](/movies/Movie2.md)
 ## Heroes 
 
 - [Crane](/heroes/Crane.md)
