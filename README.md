@@ -2,7 +2,7 @@
 
 ## Movies
 
-
+- [Darkness Falls](/movies/Movie1.md)
 ## Heroes 
 
 - [Crane](../CINEMATIC-UNIVERSE/heroes/Crane.md)
@@ -16,3 +16,4 @@
 ## Authors 
 
 - Avesalon Razvan
+- Raduta Valeriu
