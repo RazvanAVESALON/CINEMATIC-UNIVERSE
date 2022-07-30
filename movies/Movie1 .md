@@ -5,5 +5,5 @@ In one Friday afternoon, a group of kids coming home from school spot a shadowy 
 On said hill, an opening to an underground cave has a very eerie feel to it. Some urban legends say that only dark spirits inherit that cave, others say that burried treasures can be found inside. The only certain thing is the protagonists will be sorry for descending into Bardo the Redeemer's ancient prison.
 
 ## Characters
-Bardo the Redeemer
-Shaila (briefly)
+ - Bardo the Redeemer
+ - Shaila (briefly)
