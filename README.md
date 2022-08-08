@@ -4,6 +4,7 @@
 
 - [Darkness Falls](/movies/Movie1.md)
 - [A New Dawn](/movies/Movie2.md)
+- [Long Night](/movies/Movie3.md)
 ## Heroes 
 
 - [Crane](/heroes/Crane.md)
@@ -19,3 +20,4 @@
 - Avesalon Razvan
 - Raduta Valeriu
 - Cirstea Andreea
+- Duca Robert
