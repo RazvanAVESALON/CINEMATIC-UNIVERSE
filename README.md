@@ -21,3 +21,4 @@
 - Raduta Valeriu
 - Cirstea Andreea
 - Duca Robert
+- Georgescu Valentin
