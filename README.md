@@ -5,6 +5,7 @@
 - [Darkness Falls](/movies/Movie1.md)
 - [A New Dawn](/movies/Movie2.md)
 - [Long Night](/movies/Movie3.md)
+- [Consequences](/movies/Movie4.md)
 ## Heroes 
 
 - [Crane](/heroes/Crane.md)
